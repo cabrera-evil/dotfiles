@@ -4,7 +4,6 @@
 ![](https://img.shields.io/github/languages/top/cabrera-evil/dotfiles?label=bash)
 ![](https://img.shields.io/github/languages/code-size/cabrera-evil/dotfiles)
 ![](https://img.shields.io/github/repo-size/cabrera-evil/dotfiles)
-![](https://img.shields.io/github/commit-activity/m/cabrera-evil/dotfiles)
 ![](https://img.shields.io/github/contributors/cabrera-evil/dotfiles)
 ![](https://img.shields.io/github/stars/cabrera-evil/dotfiles?style=social)
 
