@@ -12,7 +12,7 @@
 The i3 config relies on certain dependencies for smooth operation. For Debian-based systems, you can install them using the following command:
 
 ```bash
-sudo apt-get install dunst i3 i3lock-fancy polybar xwallpaper rofi bash fonts-font-awesome xdg-utils sensible-utils alsa-utils fonts-firacode flameshot xautolock numlockx blueman network-manager net-tools
+sudo apt install -y dunst i3 i3lock-fancy polybar xwallpaper rofi fonts-font-awesome xdg-utils sensible-utils alsa-utils fonts-firacode flameshot xautolock numlockx blueman network-manager net-tools exo-utils
 ```
 
 ## How to Apply Themes
